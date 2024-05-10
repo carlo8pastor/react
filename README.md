@@ -34,5 +34,5 @@ Type the following commands in your computer's terminal:
     npm start
     ```
 
-5. Open your browser and visit http://localhost:3000 to view the React webpage.
+5. Open your browser and visit the http://localhost link that your terminal displays.
 
