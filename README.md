@@ -8,6 +8,8 @@ The live webpage can be accessed [here](https://carlo8pastor.github.io/react/).
 
 ## If Reader wants to Run the React Webpage Locally:
 
+Type the following commands in your computer's terminal:
+
 1. Clone this repository to your local machine:
 
     ```
